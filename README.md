@@ -74,7 +74,7 @@ Created visualizations including:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Power_BI_Dashboard.png)
 
 ---
 
